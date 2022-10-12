@@ -212,4 +212,4 @@ async def on_message(message):
               
                 await G.send(file = discord.File("AW.jpg"))
     
-client.run("ODcxMjgwNjYzNDQ4Mzk5ODky.YQZBWQ.mfGunkdTTeYvaIbnWSSbtK1k4oE")
+client.run('MTAyOTU5NDIyNzQzODUzMDYwMg.GFXS8o.1Uiq4JcQHDBa5zGnQcDZfZda4Ynfd3KPzZSnms')
